@@ -1,5 +1,5 @@
 # Jupyter Notebook to PDF AI Agent
-# Author: Ali Haider (AI-Engineer)
+# Author: Ali Haider (AI-Data Engineer)
 
 A professional AI-powered agent that converts Jupyter Notebooks (.ipynb) into beautifully formatted PDF reports. The agent intelligently extracts markdown cells, code cells, and outputs, then generates a polished, submission-ready PDF document.
 

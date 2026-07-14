@@ -79,7 +79,7 @@ python nb2pdf_agent.py --help
 ```
 usage: nb2pdf_agent.py [-h] [-o OUTPUT] [-v] input
 
-Convert Jupyter Notebook (.ipynb) to professional PDF
+Convert Jupyter Notebook (.ipynb) to a professional PDF
 
 positional arguments:
   input                 Path to the Jupyter Notebook (.ipynb) file
